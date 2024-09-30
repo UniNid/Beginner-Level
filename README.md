@@ -1,2 +1,2 @@
-# Beginner-Level
+# Projects
 Includes all the projects that I have created while learning web development...
