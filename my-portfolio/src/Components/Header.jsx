@@ -7,7 +7,7 @@ return(
     <div className="font-bold text-xl">Nidhi Uniyal</div>
     <div>Full Stack Developer</div>
     </div>
-    <img class="rounded-full w-14" src={profilePic} alt="profile pic" />
+    <img className="rounded-full w-14" src={profilePic} alt="profile pic" />
 </header> 
 )
 }
